@@ -108,7 +108,7 @@ const Footer = () => {
             >
               <Image
                 alt="Candid Silver Seal of Transparency widget"
-                src="https://widgets.guidestar.org/prod/v1/pdp/transparency-seal/16537426/svg"
+                src="https://widgets.candid.org/TransparencySeal/16537426/svg"
                 width={108}
                 height={108}
                 unoptimized
